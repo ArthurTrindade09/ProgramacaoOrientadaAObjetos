@@ -1,2 +1,2 @@
 # ProgramacaoOrientadaAObjetos
-Para atividades, exercícios e engraçadices de obviamente, ass- mentira, java e arquivos do eclips/netbeans
+Para atividades, exercícios e engraçadices de obviamente, assemb- mentira, java e arquivos do eclips/netbeans
