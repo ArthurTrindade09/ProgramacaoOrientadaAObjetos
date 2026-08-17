@@ -1,2 +1,5 @@
-# ProgramacaoOrientadaAObjetos
-Para atividades, exercícios e engraçadices de obviamente, assemb- mentira, java e arquivos do eclips/netbeans
+# Progamação Orientada à Objetos
+Repositório para a disciplina de POO
+
+## Tarefas e Projetos
+Apenas para salvar os projetos das aulas e tarefas/exercícios
